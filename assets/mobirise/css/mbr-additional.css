@@ -1205,7 +1205,7 @@ a {
 .cid-tMjLgKMVRH {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #cd9f12;
+  background-color: #ffffff;
 }
 .cid-tMjLgKMVRH .mbr-fallback-image.disabled {
   display: none;
@@ -1250,7 +1250,7 @@ a {
 }
 .cid-tMjLgKMVRH .mbr-text,
 .cid-tMjLgKMVRH .mbr-section-btn {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-tMmjrUkIOr {
   padding-top: 6rem;
@@ -1286,15 +1286,15 @@ a {
   color: #232323;
   text-align: right;
 }
-.cid-tMmHS9zxsI {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/abstract-white-and-gray-light-gradient-lines-background-free-vector.jpg");
+.cid-tMBVEffcIs {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-image: url("../../../assets/images/white-label-genetic-reports.jpg");
 }
-.cid-tMmHS9zxsI .mbr-fallback-image.disabled {
+.cid-tMBVEffcIs .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tMmHS9zxsI .mbr-fallback-image {
+.cid-tMBVEffcIs .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1303,43 +1303,11 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tMmHS9zxsI .oldcost {
-  text-decoration: line-through;
-  color: #353535;
-}
-.cid-tMmHS9zxsI .currentcost {
-  color: #232323;
-}
-.cid-tMmHS9zxsI .card-wrapper {
-  border-radius: 4px;
-  background: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-tMmHS9zxsI .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tMmHS9zxsI .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tMmHS9zxsI .text-box {
-    padding: 1rem;
-  }
-}
-.cid-tMmHS9zxsI .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-tMmHS9zxsI H5 {
+.cid-tMBVEffcIs .mbr-text,
+.cid-tMBVEffcIs .mbr-section-btn {
   text-align: right;
 }
-.cid-tMmHS9zxsI .mbr-text,
-.cid-tMmHS9zxsI .cost,
-.cid-tMmHS9zxsI .mbr-section-btn {
+.cid-tMBVEffcIs .mbr-section-title {
   text-align: right;
 }
 .cid-tMmjq4nnyZ {
@@ -1366,7 +1334,7 @@ a {
 }
 .cid-tMmjq4nnyZ .slide-content {
   position: relative;
-  border-radius: 4px;
+  border-radius: 35px;
   background: #cd9f12;
   height: 100%;
   width: 70%;
