@@ -1310,71 +1310,61 @@ a {
 .cid-tMBVEffcIs .mbr-section-title {
   text-align: right;
 }
-.cid-tMmjq4nnyZ {
-  padding-top: 9rem;
-  padding-bottom: 9rem;
-  background-image: url("../../../assets/images/dna-test-aberdeen-wa-image-local-hero.jpg");
+.cid-tMD1QEjkGX {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #cd9f12;
 }
-.cid-tMmjq4nnyZ .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.8;
-}
-.cid-tMmjq4nnyZ img,
-.cid-tMmjq4nnyZ .item-img {
+.cid-tMD1QEjkGX img,
+.cid-tMD1QEjkGX .item-img {
   height: 100%;
-  height: 200px;
+  height: 300px;
   object-fit: cover;
 }
-.cid-tMmjq4nnyZ .item:focus,
-.cid-tMmjq4nnyZ span:focus {
+.cid-tMD1QEjkGX .item:focus,
+.cid-tMD1QEjkGX span:focus {
   outline: none;
 }
-.cid-tMmjq4nnyZ .item-wrapper {
+.cid-tMD1QEjkGX .item-wrapper {
   position: relative;
 }
-.cid-tMmjq4nnyZ .slide-content {
+.cid-tMD1QEjkGX .slide-content {
   position: relative;
-  border-radius: 35px;
-  background: #cd9f12;
+  border-radius: 40px;
+  background: #fafafa;
   height: 100%;
-  width: 70%;
   display: flex;
   overflow: hidden;
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-tMmjq4nnyZ .slide-content .item-content {
+  .cid-tMD1QEjkGX .slide-content .item-content {
     padding: 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-tMmjq4nnyZ .slide-content .item-content {
+  .cid-tMD1QEjkGX .slide-content .item-content {
     padding: 1rem;
   }
 }
-.cid-tMmjq4nnyZ .mbr-section-btn {
+.cid-tMD1QEjkGX .mbr-section-btn {
   margin-top: auto !important;
-  padding-left: 3rem;
-  padding-right: 3rem;
 }
-.cid-tMmjq4nnyZ .mbr-section-title {
-  color: #000000;
+.cid-tMD1QEjkGX .mbr-section-title {
+  color: #232323;
 }
-.cid-tMmjq4nnyZ .mbr-text,
-.cid-tMmjq4nnyZ .mbr-section-btn {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tMmjq4nnyZ .item-title {
+.cid-tMD1QEjkGX .mbr-text,
+.cid-tMD1QEjkGX .mbr-section-btn {
   text-align: center;
 }
-.cid-tMmjq4nnyZ .item-subtitle {
+.cid-tMD1QEjkGX .item-title {
   text-align: center;
-  color: #ffffff;
-  margin-left: 10px !important;
-  margin-right: 10px !important;
 }
-.cid-tMmjq4nnyZ .embla__slide {
+.cid-tMD1QEjkGX .item-subtitle {
+  text-align: center;
+  color: #232323;
+}
+.cid-tMD1QEjkGX .embla__slide {
   display: flex;
   justify-content: center;
   position: relative;
@@ -1382,18 +1372,18 @@ a {
   max-width: 410px;
 }
 @media (max-width: 768px) {
-  .cid-tMmjq4nnyZ .embla__slide {
+  .cid-tMD1QEjkGX .embla__slide {
     min-width: 70%;
     max-width: initial;
     margin-left: 1rem !important;
     margin-right: 1rem !important;
   }
 }
-.cid-tMmjq4nnyZ .embla__button--next,
-.cid-tMmjq4nnyZ .embla__button--prev {
+.cid-tMD1QEjkGX .embla__button--next,
+.cid-tMD1QEjkGX .embla__button--prev {
   display: flex;
 }
-.cid-tMmjq4nnyZ .embla__button {
+.cid-tMD1QEjkGX .embla__button {
   top: 50%;
   width: 60px;
   height: 60px;
@@ -1409,42 +1399,47 @@ a {
   justify-content: center;
   align-items: center;
 }
-.cid-tMmjq4nnyZ .embla__button:disabled {
+@media (max-width: 768px) {
+  .cid-tMD1QEjkGX .embla__button {
+    display: none;
+  }
+}
+.cid-tMD1QEjkGX .embla__button:disabled {
   cursor: default;
   display: none;
 }
-.cid-tMmjq4nnyZ .embla__button:hover {
+.cid-tMD1QEjkGX .embla__button:hover {
   background: #000;
   color: rgba(255, 255, 255, 0.5);
 }
-.cid-tMmjq4nnyZ .embla__button.embla__button--prev {
+.cid-tMD1QEjkGX .embla__button.embla__button--prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-tMmjq4nnyZ .embla__button.embla__button--next {
+.cid-tMD1QEjkGX .embla__button.embla__button--next {
   right: 0;
   margin-right: 2.5rem;
 }
 @media (max-width: 767px) {
-  .cid-tMmjq4nnyZ .embla__button {
+  .cid-tMD1QEjkGX .embla__button {
     top: auto;
   }
 }
-.cid-tMmjq4nnyZ .embla {
+.cid-tMD1QEjkGX .embla {
   position: relative;
   width: 100%;
 }
-.cid-tMmjq4nnyZ .embla__viewport {
+.cid-tMD1QEjkGX .embla__viewport {
   overflow: hidden;
   width: 100%;
 }
-.cid-tMmjq4nnyZ .embla__viewport.is-draggable {
+.cid-tMD1QEjkGX .embla__viewport.is-draggable {
   cursor: grab;
 }
-.cid-tMmjq4nnyZ .embla__viewport.is-dragging {
+.cid-tMD1QEjkGX .embla__viewport.is-dragging {
   cursor: grabbing;
 }
-.cid-tMmjq4nnyZ .embla__container {
+.cid-tMD1QEjkGX .embla__container {
   display: flex;
   user-select: none;
   -webkit-touch-callout: none;
