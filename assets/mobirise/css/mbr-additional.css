@@ -1067,65 +1067,25 @@ a {
     left: -1rem;
   }
 }
-.cid-tMgPyOPdxR {
-  background-image: url("../../../assets/images/dna-closely.jpg");
+.cid-tN4ALpqAgC {
+  background-image: url("../../../assets/images/7d853c08a0ad96a47b85f3c553187950.jpg");
 }
-.cid-tMgPyOPdxR .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
+.cid-tN4ALpqAgC .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-tMgPyOPdxR .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-tMgPyOPdxR .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-tMgPyOPdxR .mbr-text {
-  color: #ffffff;
-}
-.cid-tMgPyOPdxR .card {
-  padding-bottom: 1.5rem;
-}
-.cid-tMgPyOPdxR .card-wrapper {
-  min-height: 220px;
-  transition: all 0.3s;
-  border-radius: 4px;
-  padding: 1rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-tMgPyOPdxR .card-wrapper .mbr-iconfont {
+.cid-tN4ALpqAgC .mbr-fallback-image {
   display: block;
-  font-size: 4rem;
-  color: #ffffff;
-  margin-bottom: 2rem;
-}
-.cid-tMgPyOPdxR .card-wrapper .card-title {
-  color: #ffffff;
-}
-.cid-tMgPyOPdxR H1 {
-  color: #ffffff;
-}
-.cid-tMgPyOPdxR .mbr-text,
-.cid-tMgPyOPdxR .mbr-section-btn {
-  color: #bbbbbb;
-}
-.cid-tMgPyOPdxR .card-wrapper .card-title,
-.cid-tMgPyOPdxR .card-box {
-  color: #bbbbbb;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-tMgXoA1EPT {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #cd9f12;
+  background-image: url("../../../assets/images/white-label-genetic-reports.jpg");
 }
 .cid-tMgXoA1EPT .mbr-fallback-image.disabled {
   display: none;
@@ -1150,40 +1110,6 @@ a {
 .cid-tMgXoA1EPT .mbr-text,
 .cid-tMgXoA1EPT .link-wrap {
   color: #ffffff;
-}
-.cid-tMh0YMChW1 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tMh0YMChW1 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tMh0YMChW1 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (min-width: 992px) {
-  .cid-tMh0YMChW1 .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-tMh0YMChW1 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-tMh0YMChW1 .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-tMh0YMChW1 .mbr-text {
-  text-align: right;
 }
 .cid-tMjLt93WZW {
   padding-top: 10rem;
@@ -1252,64 +1178,6 @@ a {
 .cid-tMjLgKMVRH .mbr-section-btn {
   color: #232323;
 }
-.cid-tMmjrUkIOr {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/home-healthcare.jpg");
-}
-.cid-tMmjrUkIOr .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tMmjrUkIOr .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tMmjrUkIOr .mbr-text,
-.cid-tMmjrUkIOr .mbr-section-btn {
-  color: #232323;
-}
-.cid-tMmjrUkIOr .card-title,
-.cid-tMmjrUkIOr .card-box {
-  color: #232323;
-}
-.cid-tMmjrUkIOr .mbr-text,
-.cid-tMmjrUkIOr .link-wrap {
-  color: #ffffff;
-}
-.cid-tMmjrUkIOr .card-box .mbr-text,
-.cid-tMmjrUkIOr .mbr-section-btn {
-  color: #232323;
-  text-align: right;
-}
-.cid-tMBVEffcIs {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-image: url("../../../assets/images/white-label-genetic-reports.jpg");
-}
-.cid-tMBVEffcIs .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tMBVEffcIs .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tMBVEffcIs .mbr-text,
-.cid-tMBVEffcIs .mbr-section-btn {
-  text-align: right;
-}
-.cid-tMBVEffcIs .mbr-section-title {
-  text-align: right;
-}
 .cid-tMD1QEjkGX {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1339,12 +1207,18 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tMD1QEjkGX .slide-content .item-content {
-    padding: 2rem;
+    padding: 2rem 2rem 0;
+  }
+  .cid-tMD1QEjkGX .slide-content .item-footer {
+    padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-tMD1QEjkGX .slide-content .item-content {
-    padding: 1rem;
+    padding: 1rem 1rem 0;
+  }
+  .cid-tMD1QEjkGX .slide-content .item-footer {
+    padding: 0 1rem 1rem;
   }
 }
 .cid-tMD1QEjkGX .mbr-section-btn {
