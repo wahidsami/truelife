@@ -1082,15 +1082,15 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tMgXoA1EPT {
+.cid-tNvZijuG4N {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/white-label-genetic-reports.jpg");
+  background-color: #ffffff;
 }
-.cid-tMgXoA1EPT .mbr-fallback-image.disabled {
+.cid-tNvZijuG4N .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tMgXoA1EPT .mbr-fallback-image {
+.cid-tNvZijuG4N .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1099,17 +1099,42 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tMgXoA1EPT .mbr-text,
-.cid-tMgXoA1EPT .mbr-section-btn {
-  color: #232323;
+.cid-tNvZijuG4N .content-wrapper {
+  background: #ffffff;
 }
-.cid-tMgXoA1EPT .card-title,
-.cid-tMgXoA1EPT .card-box {
-  color: #ffffff;
+@media (max-width: 991px) {
+  .cid-tNvZijuG4N .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
 }
-.cid-tMgXoA1EPT .mbr-text,
-.cid-tMgXoA1EPT .link-wrap {
-  color: #ffffff;
+@media (max-width: 767px) {
+  .cid-tNvZijuG4N .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tNvZijuG4N .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tNvZijuG4N .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-tNvZijuG4N .content-wrapper .text-wrapper {
+    padding-left: 2rem;
+  }
+}
+.cid-tNvZijuG4N .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tNvZijuG4N .mbr-text,
+.cid-tNvZijuG4N .mbr-section-btn {
+  text-align: right;
+}
+.cid-tNvZijuG4N .card-title {
+  text-align: right;
 }
 .cid-tMjLt93WZW {
   padding-top: 10rem;
